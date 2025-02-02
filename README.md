@@ -1,6 +1,12 @@
-# azure-search-langchain
+# Retrieval-Augmented Generation (RAG) using Azure 
 
-This project downloads a PDF from Azure Blob Storage, processes it with LangChain, and searches in Azure Cognitive Search.
+This project integrates Retrieval-Augmented Generation (RAG) with Azure AI services to enhance document-based Q&A.
+
+## 🚀 Features
+- 🔹 Fetch documents from **Azure Blob Storage**.
+- 🔹 Use **Azure Cognitive Search** for retrieval.
+- 🔹 Generate responses using **Azure OpenAI (GPT-4)**.
+- 🔹 **LangChain** for text processing and embedding search.
 
 ## Requirements
 
