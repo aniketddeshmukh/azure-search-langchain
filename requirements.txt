@@ -1,0 +1,6 @@
+azure-storage-blob
+langchain
+langchain-openai
+azure-search-documents
+python-dotenv
+openai
