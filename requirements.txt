@@ -1,6 +1,4 @@
-azure-storage-blob
-langchain
-langchain-openai
-azure-search-documents
-python-dotenv
-openai
+azure-storage-blob==12.8.0 
+langchain-openai==0.0.1  
+azure-search-documents==11.4.0
+openai==0.27.0  
